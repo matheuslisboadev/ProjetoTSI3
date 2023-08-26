@@ -1,0 +1,27 @@
+
+.titulo__principal{
+    font-family: var(--font-roboto-mono);
+    font-size: var(--txt-large);
+}
+
+
+.txt__small {
+    font-family: var(--font-roboto-mono);
+    font-size: var(--txt-small);
+    font-weight: 300;
+    color: black;
+}
+
+.txt__medium{
+    font-family: var(--font-noto-sans);
+    font-size: var(--text-medium);
+    font-weight: 300;
+    color: black;
+}
+
+.txt__large{
+    font-family: var(--font-roboto-mono);
+    font-size: var(--text-large);
+    font-weight: 300;
+    color: black;
+}
